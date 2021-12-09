@@ -1,0 +1,51 @@
+header{
+    background-color: yellow;
+    text-align: center;
+    height: 100px;
+}
+.content{
+    overflow: hidden;
+}
+.left{
+    width: 25%;
+    height: 600px;
+    background-color: darkgoldenrod;
+    float: left;
+}
+.center{
+    width: 50%;
+    height: 600px;
+    background-color: darkgreen;
+    float: left;
+}
+.top{
+    height: 30%;
+    background-color: gold;
+}
+.middle{
+    height: 40%;
+    background-color: grey;
+    overflow: hidden;
+}
+.middle_left{
+    width: 50%;
+    height: 100%;
+    background-color: black;
+    float: left;
+}
+.middle_right{
+    width: 50%
+    height: 100%;
+    background-color: red;
+    float: right;
+}
+.bottom{
+    Height: 30%
+    background-color: green;
+}
+.right{
+    width: 25%;
+    height: 600px;
+    background-color: darkkhaki;
+    float: left;
+}
